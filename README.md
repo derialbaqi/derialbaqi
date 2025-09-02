@@ -1,6 +1,6 @@
 <!-- Fancy GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Deri Albaqi</h1>
+<h1 align="center">Hi everyone 👋, I'm Deri Albaqi</h1>
 <h3 align="center">🚀 Developer | 🌐 Tech Enthusiast | 💡 Lifelong Learner</h3>
 
 ---
