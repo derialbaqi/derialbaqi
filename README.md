@@ -36,14 +36,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derialbaqi&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
+
 ---
-
-### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/derialbaqi/derialbaqi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
+  ✨ *"Code never lies, comments sometimes do."* ✨
 </p>
+<p align="left">Play Games with me?</p>
 
+###
+
+<img src="https://raw.githubusercontent.com/derialbaqi/derialbaqi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derialbaqi/derialbaqi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/derialbaqi/derialbaqi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/derialbaqi/derialbaqi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ### 🌐 Connect with Me
@@ -60,7 +72,3 @@
 </p>
 
 ---
-
-<p align="center">
-  ✨ *"Code never lies, comments sometimes do."* ✨
-</p>
