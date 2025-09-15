@@ -74,7 +74,7 @@
   <a href="https://www.linkedin.com/in/deri-albaqi-340988263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/justnotfoundd" target="_blank">
+  <a href="https://instagram.com/justnotfounddd" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:derialbaqistti@gmail.com" target="_blank">
