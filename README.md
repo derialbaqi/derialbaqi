@@ -69,13 +69,17 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/derialbaqi/" target="_blank">
+ ### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/deri-albaqi-340988263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://instagram.com/justnotfoundd" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:derialbaqistti@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
 </p>
